@@ -11,7 +11,7 @@ Bu proje, kişisel görev ve zaman yönetimini kolaylaştırmak amacıyla Flutte
 - ✅ Görev İstatistikleri (Toplam, Tamamlanan, Kalan)
 - ✅ Takvim Entegrasyonu (TableCalendar)
 - ✅ Tema Desteği (Dark/Light Mode)
-- ✅ Günlük Rastgele Motivasyon Mesajları
+- ✅ Yapay Zeka Destekli Günlük Rastgele Motivasyon Mesajları
 - ✅ Animasyonlu Hoşgeldin Ekranı
 - ✅ Responsive ve Modern Tasarım
 
@@ -22,6 +22,7 @@ Bu proje, kişisel görev ve zaman yönetimini kolaylaştırmak amacıyla Flutte
 - **TableCalendar**  
 - **Slidable**  
 - **Google Fonts**
+- **Gemini AI**
 
 ## Geliştirilecek Özellikler
 
