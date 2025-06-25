@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165974340827",
+    "project_id": "gorev-takp-flutter",
+    "storage_bucket": "gorev-takp-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165974340827:android:1da63648b0bc64c0cb88fe",
+        "android_client_info": {
+          "package_name": "com.example.gorev_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmr_MYS4xjGvDq2Qm7U6qXDuXH_WrcOQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
