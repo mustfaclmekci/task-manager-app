@@ -4,16 +4,6 @@ Bu proje, kişisel görev ve zaman yönetimini kolaylaştırmak amacıyla Flutte
 
 ## Özellikler
 
-- ✅ Kullanıcı Kayıt ve Giriş Sistemi (Firebase Authentication)
-- ✅ Profil Yönetimi
-- ✅ Görev Ekleme, Silme, Tamamlama
-- ✅ Kategorilere Göre Görev Filtreleme
-- ✅ Görev İstatistikleri (Toplam, Tamamlanan, Kalan)
-- ✅ Takvim Entegrasyonu (TableCalendar)
-- ✅ Tema Desteği (Dark/Light Mode)
-- ✅ Yapay Zeka Destekli Günlük Rastgele Motivasyon Mesajları
-- ✅ Animasyonlu Hoşgeldin Ekranı
-- ✅ Responsive ve Modern Tasarım
 
 ## Kullanılan Teknolojiler
 
