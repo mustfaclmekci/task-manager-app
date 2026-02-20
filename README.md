@@ -18,20 +18,4 @@ Bu proje, kişisel görev ve zaman yönetimini kolaylaştırmak amacıyla Flutte
 
 -  **İleri Seviye Görev Analizleri ve Raporlama**  
 -  **Bildirim Sistemi (Deadline hatırlatmaları)**  
--  **Offline Mod Desteği**
-
-## Kurulum
-
-1. Flutter SDK'yı kurun.
-2. Firebase projesini oluşturun ve yapılandırın.
-3. `flutter pub get` ile bağımlılıkları yükleyin.
-4. `flutter run` ile projeyi başlatın.
-
-## Geliştirici
-
-👨‍💻 Mustafa Çölmekçi  
-📧 mustfaclmekci@gmail.com  
-🎓 Atatürk Üniversitesi - Bilişim Sistemleri ve Teknolojileri (4. Sınıf)
-
----
 
